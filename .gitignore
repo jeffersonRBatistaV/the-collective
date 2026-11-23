@@ -1,0 +1,7 @@
+# Sesiones reales y ensayos: contienen citas, facciones y documentos internos.
+# Nunca se versionan.
+.claude/collective/groups/
+.claude/collective/sessions/
+
+# Configuración local de Claude Code
+.claude/settings.local.json
