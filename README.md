@@ -1,5 +1,7 @@
 # The Collective
 
+![Alegorías de Mármol en Luz Dorada](assets/alegorias-marmol-luz-dorada.png)
+
 A deliberation system with four AI agents for hard decisions. It works as a Claude Code project: open this folder and use `/collective` (personal decisions) or `/collective-group` (decisions that affect a group). For lighter decisions, both skills accept `--lite`.
 
 Every session follows the same process:
