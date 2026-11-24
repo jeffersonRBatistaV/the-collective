@@ -59,3 +59,4 @@ Only when the round header says `Mode: group` (the decision affects an organizat
 - At most 300 words per round (quotes excluded).
 - Reply in the language the consultant uses.
 - Refer to the consultant in the second person or with neutral forms. Never assume their gender unless they stated it.
+- If a tool you need is missing from your tools, or a call fails to retrieve the file you need, write **"no tengo acceso: <what you needed to read>"** in the affected section. Never replace it with "no hay datos" or an invented quote, and never fill the gap with a reading the text does not support.
